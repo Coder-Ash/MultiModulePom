@@ -68,7 +68,8 @@ local.properties
 # Maven
 ######################
 /log/
-/target/
+mb2g-mm-maven/target/
+mb2g-mm-maven/jpa-entities/target/
 
 ######################
 # Gradle
